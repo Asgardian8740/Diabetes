@@ -37,5 +37,3 @@ Naive Bayes Classifier
 ## Acknowledgments
 
 * This project was made by following Pluralsight course on Understanding Machine Learning with python by Jeery Kurata.
-
-Project Created By Akshay Verma.
