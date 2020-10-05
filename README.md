@@ -1,5 +1,5 @@
 # Diabetes
-This is a supervised trained model written in pyhton which can be used to predict about the diabetes in a person by using his body parametes.
+This is a supervised trained model written in pyhton which can be used to predict about the diabetes in a person by using his body parametes. 
 
 ## Parameters being used for prediction
 
